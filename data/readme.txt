@@ -1,1 +1,1 @@
-The foot ground contact and 3D pose estimations (given by MHFormer: Li, Wenhao, et al. "Mhformer: Multi-hypothesis transformer for 3d human pose estimation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.)
+The foot ground contact, bounding box (by YOLOv6) and 3D pose estimations (by MHFormer)
